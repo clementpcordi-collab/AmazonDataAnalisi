@@ -11,12 +11,16 @@ aaa
 
 # Technical Stack
 
-python
-Core Libraries
-pandas
-numpy
-matplotlib
 
+python 
+Core Libraries: 
+├── pandas (data manipulation) v2.x 
+├── numpy (numerical computing) v1.x 
+├── matplotlib (visualizations) v3.x 
+├── seaborn (statistical plots) v0.13 
+└── Jupyter Notebook (reporting) v7.x
+
+Dataset: products_with_reviews_clean.csv (12MB, 6,355 righe × 35 colonne)
 
 
 
@@ -26,4 +30,4 @@ Data Analyst:
 Stakeholders:
 Deploy:
 Email: 
-F
+
