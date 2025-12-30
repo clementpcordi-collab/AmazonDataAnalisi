@@ -44,5 +44,6 @@ Use code with caution.
 
 # Team & Contatti
 Data Analyst	clementpcordi-collab / Email: clement.p.cordi@gmail.com 
+
 Deploy	GitHub: https://github.com/clementpcordi-collab/AmazonDataAnalisi 
 
