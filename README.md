@@ -9,10 +9,12 @@ Analisi esplorativa del dataset Amazon E-commerce Products & Reviews di Kaggle p
 
 # Prerequisiti
 
+Per eseguire i notebook o gli script Python presenti in questo repository, è necessario avere installato Python e le librerie elencate nello stack tecnico.
+
 # Technical Stack
 
 
-python 
+python 3.x	Linguaggio principale
 Core Libraries: 
 ├── pandas (data manipulation) v2.x 
 ├── numpy (numerical computing) v1.x 
@@ -30,53 +32,27 @@ Data Analyst	clementpcordi-collab / Email: clement.p.cordi@gmail.com
 Deploy	GitHub: https://github.com/clementpcordi-collab/AmazonDataAnalisi 
 
 
-Tabella dei Contenuti
-Descrizione
-Prerequisiti
-Technical Stack
-Uso
-Team & Contatti
 
-
-Descrizione
+# Descrizione
 L'obiettivo del progetto è estrarre insight dal mercato Amazon concentrandosi sul volume e sul sentiment delle recensioni dei clienti.
 
-Scopo dell'Analisi:
+## Scopo dell'Analisi:
 Brand & Categorie: Identificare i marchi e le categorie di prodotti con il miglior/peggior sentiment medio per suggerire investimenti.
 
 Prodotti Top/Flop: Classificare i prodotti più recensiti in base al loro punteggio di sentiment positivo o negativo.
 
 EDA (Exploratory Data Analysis): Comprendere la struttura del dataset, gestire i valori mancanti e preparare i dati per l'analisi (es. pulizia dei prezzi e dei rating).
 
-Il dataset utilizzato è disponibile su Kaggle: Amazon E-commerce Products & Reviews.
+Il dataset utilizzato è disponibile su Kaggle: Amazon E-commerce Products & Reviews: https://www.kaggle.com/datasets/lazylad99/amazon-e-commerce-product-and-review-dataset
 
-Prerequisiti
-Per eseguire i notebook o gli script Python presenti in questo repository, è necessario avere installato Python e le librerie elencate nello stack tecnico.
 
-Technical Stack
-Il progetto è stato sviluppato utilizzando i seguenti strumenti e librerie:
-Nome	Versione	Uso
-Python	3.x	Linguaggio principale
-pandas	v2.x	Manipolazione e analisi dati
-numpy	v1.x	Calcolo numerico
-matplotlib	v3.x	Visualizzazione dati
-seaborn	v0.13	Plot statistici
-Jupyter Notebook	v7.x	Reporting e documentazione EDA
-Dataset: products_with_reviews_clean.csv (12MB, 6.355 righe × 35 colonne).
-Uso
+# Uso
+
 Clona il repository sulla tua macchina locale:
 bash
 git clone github.com
 cd nome-progetto
 Use code with caution.
 
-Installa le dipendenze richieste (assicurati di aver creato un ambiente virtuale):
-bash
-pip install -r requirements.txt
-Use code with caution.
 
-Apri i notebook Jupyter per esplorare l'analisi passo dopo passo:
-bash
-jupyter notebook
-Use code with caution.
 
