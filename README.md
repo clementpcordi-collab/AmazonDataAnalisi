@@ -1,12 +1,6 @@
 # Amazon E-commerce Analysis
 Analisi esplorativa del dataset Amazon E-commerce Products & Reviews di Kaggle per identificare opportunità di mercato, brand performanti e comportamenti d'acquisto tramite l'analisi del sentiment.
 
-# Tabella dei contenuti
-- [Descrizione](#descrizione)
-- [Installazione](#installazione)
-- [Uso](#uso)
-- [Contributing](#contributing)
-
 # Prerequisiti
 
 Per eseguire i notebook o gli script Python presenti in questo repository, è necessario avere installato Python e le librerie elencate nello stack tecnico.
@@ -23,14 +17,6 @@ Core Libraries:
 └── Jupyter Notebook (reporting) v7.x
 
 Dataset: products_with_reviews_clean.csv (12MB, 6,355 righe × 35 colonne)
-
-
-
-
-# Team & Contatti
-Data Analyst	clementpcordi-collab / Email: clement.p.cordi@gmail.com 
-Deploy	GitHub: https://github.com/clementpcordi-collab/AmazonDataAnalisi 
-
 
 
 # Descrizione
@@ -55,4 +41,8 @@ cd nome-progetto
 Use code with caution.
 
 
+
+# Team & Contatti
+Data Analyst	clementpcordi-collab / Email: clement.p.cordi@gmail.com 
+Deploy	GitHub: https://github.com/clementpcordi-collab/AmazonDataAnalisi 
 
