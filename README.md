@@ -34,11 +34,7 @@ Il dataset utilizzato è disponibile su Kaggle: Amazon E-commerce Products & Rev
 
 # Uso
 
-Clona il repository sulla tua macchina locale:
-bash
-git clone github.com
-cd nome-progetto
-Use code with caution.
+Clona il repository sulla tua macchina locale
 
 
 
